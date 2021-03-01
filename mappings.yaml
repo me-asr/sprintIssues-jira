@@ -1,0 +1,90 @@
+Issue key : key
+Issue id: id
+'Σ Remaining Estimate': fields.aggregatetimeestimate
+'Σ Progress': fields.aggregateprogress
+'Σ Time Spent': fields.aggregatetimespent
+'Σ Original Estimate': fields.aggregatetimeoriginalestimate
+Project: fields.project
+Restrict to: fields.issuerestriction
+Sub-tasks: fields.subtasks
+Key: fields.issuekey
+versions: fields.versions
+Insight: fields.project.insight
+Issue Links: fields.issuelinks
+Status Description: fields.status.description
+Work Ratio: fields.workratio
+Progress: fields.progress
+Assignee: fields.assignee
+Attachment: fields.attachment
+Comment: fields.comment
+Components: fields.components
+Created: fields.created
+Watchers: fields.watches
+Creator: fields.creator
+Description: fields.description
+Due date: fields.duedate
+Environment: fields.environment
+Fix versions: fields.fixVersions
+Images: fields.thumbnail
+Issue Type: fields.issuetype
+Key: fields.issuekey
+Labels: fields.labels
+Last Viewed: fields.lastViewed
+Linked Issues: fields.issuelinks
+Log Work: fields.worklog
+Original Estimate: fields.timeoriginalestimate
+Parent: fields.parent
+Priority: fields.priority
+Parent: fields.parent
+Project: fields.project
+Reporter: fields.reporter
+Resolution: fields.resolution
+Resolved: fields.resolutiondate
+Restrict to: fields.issuerestriction
+Security Level: fields.security
+Status: fields.status
+Status Category: fields.statusCategory
+Status Category Changed: fields.statuscategorychangedate
+Sub-tasks: fields.subtasks
+Summary: fields.summary
+Time Spent: fields.timespent
+Time tracking: fields.timetracking
+Updated: fields.updated
+Votes: fields.votes
+Affects Version/s: fields.versions
+Archived: fields.archiveddate
+Archiver: fields.archivedby
+Due Date: fields.duedate
+Fix Version/s: fields.fixVersions
+Time Tracking: fields.timetracking
+Sub-Tasks: fields.subtasksAffects 
+versions: fields.versions
+Affects versions: fields.versions
+Approvers: fields.customfield_10003
+Change completion date: fields.customfield_10009
+Change reason: fields.customfield_10007
+Change risk: fields.customfield_10006
+Change start date: fields.customfield_10008
+Change type: fields.customfield_10005
+Development: fields.customfield_10000
+Epic Color: fields.customfield_10013
+Epic Link: fields.customfield_10014
+Epic Name: fields.customfield_10011
+Epic Status: fields.customfield_10012
+Flagged: fields.customfield_10021
+Impact: fields.customfield_10004
+Issue color: fields.customfield_10017
+Organizations: fields.customfield_10002
+Parent Link: fields.customfield_10018
+Rank: fields.customfield_10019
+Remaining Estimate: fields.timeestimate
+Request Type: fields.customfield_10010
+Sprint: fields.customfield_10020
+Start date: fields.customfield_10015
+Story Points: fields.customfield_10026
+Story point estimate: fields.customfield_10016
+Target end: fields.customfield_10023
+Target start: fields.customfield_10022
+Team: fields.customfield_10001
+'[CHART] Date of First Response': fields.customfield_10024
+'[CHART] Time in Status': fields.customfield_10025

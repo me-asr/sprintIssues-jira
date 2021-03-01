@@ -1,0 +1,21 @@
+user: "email@gmail.com"
+server: "https://abc.atlassian.net"
+apikey: "x6VW5958********"
+
+#must be an empty array if issuesof all projects in server required
+projects: []
+
+#when set to True, will update mappings.yaml with all the field id and name pairs in the server
+update_field_mappings: False
+
+#field object values matching to the given pattern will not be written to the output file
+exclude_field_val:  ['self','avatarurls','url']
+ 
+#timestamp appended to filename
+op_filename: 'SprintDetails'
+
+#generate reports for sprints having startDate between x and y format: yyyy-mm-dd
+date_range: []
+
+#generate reports for the following sprint names (Pass valid Sprint names- case sensitive)
+sprints: []
